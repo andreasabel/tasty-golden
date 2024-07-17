@@ -1,1 +1,4 @@
 *.actual
+/dist-newstyle/
+/.stack-work/
+/stack*.yaml.lock
